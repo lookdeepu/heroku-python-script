@@ -1,1 +1,2 @@
-worker: python script.py
+worker: python heroku-python-script/script.py
+      
